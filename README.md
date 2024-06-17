@@ -13,8 +13,6 @@ The Translator project is a C++ application that translates English words to ano
 - [Files](#files)
 - [Classes](#classes)
 - [Exceptions](#exceptions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
